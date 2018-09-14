@@ -3,7 +3,7 @@
  *
  *  Switch case example Atmega16 - switch case statements 1058bytes (6.5% full)
  *  
- *  main.c
+ *  menu_switch.c
  *  
  *  Created on: 25 Jan 2013
  *  Author: Oskar Figura

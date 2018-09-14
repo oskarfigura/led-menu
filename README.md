@@ -17,9 +17,11 @@ For a microcontroller such as Atmega16 this can have a major impact on the struc
 Demo of menu - <br />
 https://youtu.be/TvDNxFKiiDQ<br />
 https://youtu.be/KFQCP3L45aE<br />
-Please note that this is some of my first code written in C hence it's not of the highest quality.<br />
 
 Updated version of led menu which used functions and left the main loop clean, which showed my progress in understanding C.<br />
 Unfortunately at that time I didn't use git and most of my code has been lost.
 However if I have some spare time I will try to recreate this effect.<br />
 https://youtu.be/JEekTwN7cDs
+<br />
+Please note that this is some of my first code written in C hence it's not of the highest quality.<br />
+

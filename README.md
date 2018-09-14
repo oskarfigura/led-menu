@@ -12,7 +12,7 @@ Atmega16 - switch case statements (menu_switch.c)
 
 Conclusion: 
 Code written using if statements will take significantly less memory than code written using switch case statements. 
-For a microcontroller such as Atmega16 this can have a major impact on the structure of your code.
+For a microcontroller such as Atmega16 this can have a major impact on the structure of your code. However there are cases where this massive difference in memory doesn't occur and it's simply better to use switch case.
 
 Demo of menu - <br />
 https://youtu.be/TvDNxFKiiDQ<br />

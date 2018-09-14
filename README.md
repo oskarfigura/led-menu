@@ -10,5 +10,9 @@ Atmega16 - if statements (menu_if.c)
 Atmega16 - switch case statements (menu_switch.c)
 1058bytes (6.5% full)
 
+Conclusion: 
+Code written using if statements will take significantly less memory than code written using switch case statements. 
+For a microcontroller such as Atmega16 this can have a major impact on the structure of your code.
+
 Demo of menu - https://youtu.be/TvDNxFKiiDQ
 Please note that this is some of my first code written in C hence it's not of the highest quality.

@@ -1,8 +1,14 @@
 /*
- *  main.c
+ *  LED MENU - (8 different effects)
  *
+ *  if statements example Atmega16 - if statements 618bytes (2.8% full)
+ *  
+ *  main.c
+ *  
  *  Created on: 25 Jan 2013
  *  Author: Oskar Figura
+ *  Notes: One of my first code written in C used to see the difference in size when using switch case and if statements
+ *
  *  (MENU_KEY_PIN & MENU_KEY_DOWN) is used to choose menu options from 1 to 8 LEDs signal which option you are currently on
  *  (SELECT_KEY_PIN & SELECT_KEY_DOWN) is used to confirm selection of a chosen option from the menu which starts the appropriate effect
  */

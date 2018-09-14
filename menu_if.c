@@ -3,7 +3,7 @@
  *
  *  if statements example Atmega16 - if statements 618bytes (2.8% full)
  *  
- *  main.c
+ *  menu_if.c
  *  
  *  Created on: 25 Jan 2013
  *  Author: Oskar Figura
